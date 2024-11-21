@@ -33,3 +33,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="40" height="40" />
   </div>
+
+### :trophy: Достижения :
