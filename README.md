@@ -17,3 +17,9 @@
 </div>
 
 ### :pouting_cat: Обо мне:
+
+- :cheese: Люблю сыр с плесенью
+
+- :cloud_with_lightning: Люблю грозу и гром
+  
+- :volleyball: Раньше занималась волейболом
