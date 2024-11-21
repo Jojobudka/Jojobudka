@@ -23,3 +23,5 @@
 - :cloud_with_lightning: Люблю грозу и гром
   
 - :volleyball: Раньше занималась волейболом
+
+### :hammer_and_wrench: Языки и инструменты:
