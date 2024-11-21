@@ -17,12 +17,12 @@
 </div>
 
 <div id-"heythere" align ="center">
-### :pouting_cat: Обо мне:
+:pouting_cat: Обо мне:
 
-- :cheese: Люблю сыр с плесенью
+:cheese: Люблю сыр с плесенью
 
-- :cloud_with_lightning: Люблю грозу и гром
+:cloud_with_lightning: Люблю грозу и гром
   
-- :volleyball: Раньше занималась волейболом
+:volleyball: Раньше занималась волейболом
 
 ### :hammer_and_wrench: Языки и инструменты:
